@@ -1,1 +1,1 @@
-# My_Pet_Project
+# GUI_Solve_Sudoku
